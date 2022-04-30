@@ -1,0 +1,24 @@
+E:\FAST WORK\Visual C# Projects\Boolean Retrieval Model\Boolean Retrieval Model\bin\Debug\Boolean Retrieval Model.exe
+E:\FAST WORK\Visual C# Projects\Boolean Retrieval Model\Boolean Retrieval Model\bin\Debug\Boolean Retrieval Model.pdb
+E:\FAST WORK\Visual C# Projects\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean_Retrieval_Model.Properties.Resources.resources
+E:\FAST WORK\Visual C# Projects\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.csproj.GenerateResource.Cache
+E:\FAST WORK\Visual C# Projects\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.exe
+E:\FAST WORK\Visual C# Projects\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.pdb
+E:\FAST WORK\Visual C# Projects\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean_Retrieval_Model.Form1.resources
+E:\FAST WORK\Visual C# Projects\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.csprojResolveAssemblyReference.cache
+E:\FAST WORK\Information Retreival Programs\Assignment no.01\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.exe
+E:\FAST WORK\Information Retreival Programs\Assignment no.01\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.pdb
+E:\FAST WORK\Information Retreival Programs\Assignment no.01\Boolean Retrieval Model\Boolean Retrieval Model\bin\Debug\Boolean Retrieval Model.exe
+E:\FAST WORK\Information Retreival Programs\Assignment no.01\Boolean Retrieval Model\Boolean Retrieval Model\bin\Debug\Boolean Retrieval Model.pdb
+E:\FAST WORK\Information Retreival Programs\Assignment no.01\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.csprojResolveAssemblyReference.cache
+E:\FAST WORK\Information Retreival Programs\Assignment no.01\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean_Retrieval_Model.Form1.resources
+E:\FAST WORK\Information Retreival Programs\Assignment no.01\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean_Retrieval_Model.Properties.Resources.resources
+E:\FAST WORK\Information Retreival Programs\Assignment no.01\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.csproj.GenerateResource.Cache
+E:\FAST WORK\Visual C# Projects\Backup\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.exe
+E:\FAST WORK\Visual C# Projects\Backup\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.pdb
+E:\FAST WORK\Visual C# Projects\Backup\Boolean Retrieval Model\Boolean Retrieval Model\bin\Debug\Boolean Retrieval Model.exe
+E:\FAST WORK\Visual C# Projects\Backup\Boolean Retrieval Model\Boolean Retrieval Model\bin\Debug\Boolean Retrieval Model.pdb
+E:\FAST WORK\Visual C# Projects\Backup\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.csprojResolveAssemblyReference.cache
+E:\FAST WORK\Visual C# Projects\Backup\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean_Retrieval_Model.Form1.resources
+E:\FAST WORK\Visual C# Projects\Backup\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean_Retrieval_Model.Properties.Resources.resources
+E:\FAST WORK\Visual C# Projects\Backup\Boolean Retrieval Model\Boolean Retrieval Model\obj\x86\Debug\Boolean Retrieval Model.csproj.GenerateResource.Cache
